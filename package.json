@@ -1,0 +1,14 @@
+{
+	"name": "rippers-names",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"description": "Rippers Unmasked — Names: Foundry compendium packs (RollTable + JournalEntry). Personal-table module.",
+	"scripts": {
+		"pack": "node ./tools/pack.mjs",
+		"unpack": "node ./tools/unpack.mjs"
+	},
+	"devDependencies": {
+		"@foundryvtt/foundryvtt-cli": "3.0.0"
+	}
+}
