@@ -1,0 +1,165 @@
+{
+	"_id": "RNnameregistry10",
+	"name": "Rippers — Name & Pronunciation Registry",
+	"folder": null,
+	"pages": [
+		{
+			"_id": "RNpageAbout00010",
+			"name": "How to use this",
+			"type": "text",
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"text": {
+				"format": 1,
+				"content": "<p>A table-side pronunciation sheet, not lore. Say these out loud once before session one. Respellings, not IPA &mdash; stress in CAPITALS, syllables hyphenated.</p><ul><li><strong>&check; verified</strong> &mdash; checked against a source.</li><li><strong>&bull; standard</strong> &mdash; ordinary English usage, not separately verified.</li><li><strong>&#9888; your call</strong> &mdash; invented here or genuinely contested. There is no fact to get right; pick one and be consistent.</li></ul><p><em>General rule for 1892 London: English place names are shorter than they look. When in doubt, swallow the middle.</em></p>"
+			},
+			"sort": 100000,
+			"ownership": {
+				"default": -1
+			},
+			"flags": {},
+			"_key": "!journal.pages!RNnameregistry10.RNpageAbout00010"
+		},
+		{
+			"_id": "RNpageLondon0010",
+			"name": "London — the map",
+			"type": "text",
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"text": {
+				"format": 1,
+				"content": "<ul><li><strong>Marylebone</strong> &mdash; MARR-uh-luh-bun (&#9888;&#9888; never \"Mary-lee-bone\"; in 1892 the L-less <em>MARR-i-bun</em> was standard &mdash; the Lodge's own address)</li><li><strong>Clerkenwell</strong> &mdash; CLARK-en-wel</li><li><strong>Southwark</strong> &mdash; SUTH-uk (silent w)</li><li><strong>Greenwich</strong> &mdash; GREN-itch</li><li><strong>Woolwich</strong> &mdash; WOOL-itch</li><li><strong>Deptford</strong> &mdash; DET-f'd</li><li><strong>Holborn</strong> &mdash; HOH-b'n (&#9888; HOL-born now common)</li><li><strong>Rotherhithe</strong> &mdash; ROTH-er-hyth</li><li><strong>Wapping</strong> &mdash; WOP-ing</li><li><strong>Spitalfields</strong> &mdash; SPIT-'l-feelds</li><li><strong>Whitechapel</strong> &mdash; WYTE-chap-'l</li><li><strong>Limehouse</strong> &mdash; LYME-house</li><li><strong>Bloomsbury</strong> &mdash; BLOOMZ-bree</li><li><strong>Hampstead</strong> &mdash; HAMP-stid</li><li><strong>Tilbury</strong> &mdash; TIL-bree</li><li><strong>Kensal Green</strong> &mdash; KEN-s'l</li><li><strong>Brompton Oratory</strong> &mdash; BROMP-t'n ORR-uh-tree</li><li><strong>Rosslyn</strong> &mdash; ROZ-lin</li><li><strong>Pendle</strong> &mdash; PEN-d'l</li></ul>"
+			},
+			"sort": 200000,
+			"ownership": {
+				"default": -1
+			},
+			"flags": {},
+			"_key": "!journal.pages!RNnameregistry10.RNpageLondon0010"
+		},
+		{
+			"_id": "RNpageLodge00010",
+			"name": "The Lodge — the January dinner",
+			"type": "text",
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"text": {
+				"format": 1,
+				"content": "<ul><li><strong>Esther Hesketh</strong> &mdash; ESS-ter HESS-kith (&#9888; Esther is still a suggestion)</li><li><strong>Giacomo Fugo</strong> &mdash; JAH-koh-moh FOO-goh (Gia- is jah, never gee-)</li><li><strong>Josiah Vane</strong> &mdash; joh-ZY-uh VAYN</li><li><strong>Cordelia Ashe</strong> &mdash; kor-DEE-lee-uh ASH</li><li><strong>Harry Wray</strong> &mdash; RAY (&#9888; GM-only character)</li><li><strong>Sylvia Threlfall</strong> &mdash; SIL-vee-uh THREL-fawl</li><li><strong>Serious Chapel</strong> &mdash; CHAP-'l (the given name is the joke; play it straight)</li><li><strong>Mrs. Pargeter</strong> &mdash; PAR-jit-er (soft g)</li><li><strong>Rosa Lee</strong> &mdash; ROH-zuh LEE</li><li><strong>Danior Lee</strong> &mdash; DAN-ee-or (&#9888; Romani given name; decide and hold it &mdash; he recurs all year)</li><li><strong>Ellersley</strong> &mdash; EL-erz-lee</li></ul>"
+			},
+			"sort": 300000,
+			"ownership": {
+				"default": -1
+			},
+			"flags": {},
+			"_key": "!journal.pages!RNnameregistry10.RNpageLodge00010"
+		},
+		{
+			"_id": "RNpageSpine00010",
+			"name": "The Spine Cast",
+			"type": "text",
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"text": {
+				"format": 1,
+				"content": "<ul><li><strong>Johann Van Helsing</strong> &mdash; YOH-hahn (&#9888;&#9888; German J is Y; head of the order, said constantly)</li><li><strong>Abraham Van Helsing</strong> &mdash; AY-bruh-ham</li><li><strong>Jekyll</strong> &mdash; JEE-k'l (&#9888; JEK-'l near-universal now; be consistent)</li><li><strong>Moreau</strong> &mdash; mor-ROH (silent -eau)</li><li><strong>Carmilla</strong> &mdash; kar-MIL-uh</li><li><strong>Dracula</strong> &mdash; DRAK-yuh-luh</li><li><strong>Frankenstein</strong> &mdash; FRANK-en-styne</li><li><strong>Renfield</strong> &mdash; REN-feeld</li><li><strong>Edward Kelley</strong> &mdash; KEL-ee (&#9888; GM-only &mdash; never say in front of players)</li></ul>"
+			},
+			"sort": 400000,
+			"ownership": {
+				"default": -1
+			},
+			"flags": {},
+			"_key": "!journal.pages!RNnameregistry10.RNpageSpine00010"
+		},
+		{
+			"_id": "RNpageMedjay0010",
+			"name": "The Medjay",
+			"type": "text",
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"text": {
+				"format": 1,
+				"content": "<p>&#9888; Serviceable English renderings, not Arabic instruction. If a player speaks Arabic, defer to them and correct this.</p><ul><li><strong>Medjay</strong> &mdash; MED-jye</li><li><strong>Mohammed al-Arabi</strong> &mdash; al-AH-rah-bee</li><li><strong>Zeinab Hafiz</strong> &mdash; ZAY-nab HAH-fiz</li><li><strong>Girgis Bishara</strong> &mdash; GEER-gis bi-SHAH-rah (Coptic; hard g)</li><li><strong>Idris</strong> &mdash; ID-riss (&#9888; ee-DREES closer to Arabic)</li><li><strong>Yusuf al-Tahtawi</strong> &mdash; YOO-suf at-tah-TAH-wee (&check; note at-, not al- &mdash; sun-letter assimilation)</li><li><strong>Sosra</strong> &mdash; SOS-ruh</li><li><strong>Imhotep</strong> &mdash; im-HOH-tep (not an antagonist in this campaign)</li></ul>"
+			},
+			"sort": 500000,
+			"ownership": {
+				"default": -1
+			},
+			"flags": {},
+			"_key": "!journal.pages!RNnameregistry10.RNpageMedjay0010"
+		},
+		{
+			"_id": "RNpageIrish00010",
+			"name": "The Irish Thread",
+			"type": "text",
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"text": {
+				"format": 1,
+				"content": "<ul><li><strong>James Melmoth</strong> &mdash; MEL-moth (-moth as the insect)</li><li><strong>\"Angus McBane\"</strong> &mdash; mak-BAYN (his Scottish alias)</li><li><strong>Charles Maturin</strong> &mdash; MAT-yoo-rin (&#9888; real author; usage varies)</li><li><strong>Loughrea</strong> &mdash; lok-RAY (&#9888; the -gh- is a hard k)</li><li><strong>Cloonvara</strong> &mdash; kloon-VAR-uh (&#9888; invented townland candidate)</li><li><strong>Ardnabrone</strong> &mdash; ard-nuh-BROHN (&#9888; invented; wants a gazetteer check)</li></ul>"
+			},
+			"sort": 600000,
+			"ownership": {
+				"default": -1
+			},
+			"flags": {},
+			"_key": "!journal.pages!RNnameregistry10.RNpageIrish00010"
+		},
+		{
+			"_id": "RNpageDeck000010",
+			"name": "The Deck, and elsewhere",
+			"type": "text",
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"text": {
+				"format": 1,
+				"content": "<ul><li><strong>Ilie</strong> &mdash; ee-LEE-eh (&check; Romanian form of Elijah)</li><li><strong>A. J. Raffles</strong> &mdash; RAF-'lz (&#9888; no public reputation in 1892 &mdash; not a clue)</li><li><strong>\"Bunny\" Manders</strong> &mdash; MAN-derz</li><li><strong>Nadja</strong> &mdash; NAHD-yuh (j is y)</li><li><strong>Elena</strong> &mdash; eh-LEH-nuh</li><li><strong>Prince Dakkar</strong> &mdash; DAK-ar (Nemo)</li><li><strong>Rev. Aitken</strong> &mdash; AY-kin (&#9888; the t is silent)</li><li><strong>Overseer Voss</strong> &mdash; VOSS</li><li><strong>Lindenbocker</strong> &mdash; LIN-den-bok-er</li><li><strong>Janik</strong> &mdash; YAH-nik</li><li><strong>Petru</strong> &mdash; PET-roo</li></ul>"
+			},
+			"sort": 700000,
+			"ownership": {
+				"default": -1
+			},
+			"flags": {},
+			"_key": "!journal.pages!RNnameregistry10.RNpageDeck000010"
+		},
+		{
+			"_id": "RNpageVocab00010",
+			"name": "The Vocabulary",
+			"type": "text",
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"text": {
+				"format": 1,
+				"content": "<ul><li><strong>Miasma</strong> &mdash; mee-AZ-muh</li><li><strong>Aether</strong> &mdash; EE-ther</li><li><strong>Enochian</strong> &mdash; ee-NOH-kee-an</li><li><strong>Guise</strong> &mdash; GYZE (rhymes with eyes; &#9888; players will read it as \"geez\" once)</li><li><strong>Zenit</strong> &mdash; ZEN-it (the Lodge's ledger currency)</li><li><strong>Rippertech</strong> &mdash; RIP-er-tek</li><li><strong>Keystone</strong> &mdash; KEE-stohn</li></ul>"
+			},
+			"sort": 800000,
+			"ownership": {
+				"default": -1
+			},
+			"flags": {},
+			"_key": "!journal.pages!RNnameregistry10.RNpageVocab00010"
+		}
+	],
+	"flags": {},
+	"_stats": {
+		"coreVersion": "13.0.0",
+		"systemId": "projectfu"
+	},
+	"_key": "!journal!RNnameregistry10"
+}

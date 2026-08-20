@@ -1,0 +1,146 @@
+{
+	"_id": "RNrecruiters0010",
+	"name": "Lodge Recruiters",
+	"img": "icons/svg/book.svg",
+	"description": "The eight Lodge members a new character may name as their recruiter (creation station one). Roll 1d8, or pick. The ninth option is always \"Someone else\" — a free-text patron of the player's own naming. The recruiter target is a historical fact and never changes; if the relationship sours, a Mistrust emotion joins the same Bond row.",
+	"formula": "1d8",
+	"replacement": true,
+	"displayRoll": true,
+	"folder": null,
+	"results": [
+		{
+			"_id": "RNrecruitr000001",
+			"type": "text",
+			"text": "Esther Hesketh — ESS-ter HESS-kith",
+			"img": "icons/svg/mystery-man.svg",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false,
+			"documentCollection": "",
+			"documentId": null,
+			"flags": {},
+			"_key": "!tables.results!RNrecruiters0010.RNrecruitr000001"
+		},
+		{
+			"_id": "RNrecruitr000002",
+			"type": "text",
+			"text": "Sylvia Threlfall — SIL-vee-uh THREL-fawl",
+			"img": "icons/svg/mystery-man.svg",
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false,
+			"documentCollection": "",
+			"documentId": null,
+			"flags": {},
+			"_key": "!tables.results!RNrecruiters0010.RNrecruitr000002"
+		},
+		{
+			"_id": "RNrecruitr000003",
+			"type": "text",
+			"text": "Giacomo Fugo — JAH-koh-moh FOO-goh",
+			"img": "icons/svg/mystery-man.svg",
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false,
+			"documentCollection": "",
+			"documentId": null,
+			"flags": {},
+			"_key": "!tables.results!RNrecruiters0010.RNrecruitr000003"
+		},
+		{
+			"_id": "RNrecruitr000004",
+			"type": "text",
+			"text": "Josiah Vane — joh-ZY-uh VAYN",
+			"img": "icons/svg/mystery-man.svg",
+			"weight": 1,
+			"range": [
+				4,
+				4
+			],
+			"drawn": false,
+			"documentCollection": "",
+			"documentId": null,
+			"flags": {},
+			"_key": "!tables.results!RNrecruiters0010.RNrecruitr000004"
+		},
+		{
+			"_id": "RNrecruitr000005",
+			"type": "text",
+			"text": "Cordelia Ashe — kor-DEE-lee-uh ASH",
+			"img": "icons/svg/mystery-man.svg",
+			"weight": 1,
+			"range": [
+				5,
+				5
+			],
+			"drawn": false,
+			"documentCollection": "",
+			"documentId": null,
+			"flags": {},
+			"_key": "!tables.results!RNrecruiters0010.RNrecruitr000005"
+		},
+		{
+			"_id": "RNrecruitr000006",
+			"type": "text",
+			"text": "Harry Wray — RAY (GM-only character)",
+			"img": "icons/svg/mystery-man.svg",
+			"weight": 1,
+			"range": [
+				6,
+				6
+			],
+			"drawn": false,
+			"documentCollection": "",
+			"documentId": null,
+			"flags": {},
+			"_key": "!tables.results!RNrecruiters0010.RNrecruitr000006"
+		},
+		{
+			"_id": "RNrecruitr000007",
+			"type": "text",
+			"text": "Serious Chapel — CHAP-'l (play the given name straight)",
+			"img": "icons/svg/mystery-man.svg",
+			"weight": 1,
+			"range": [
+				7,
+				7
+			],
+			"drawn": false,
+			"documentCollection": "",
+			"documentId": null,
+			"flags": {},
+			"_key": "!tables.results!RNrecruiters0010.RNrecruitr000007"
+		},
+		{
+			"_id": "RNrecruitr000008",
+			"type": "text",
+			"text": "Johann Van Helsing — YOH-hahn (head of the order)",
+			"img": "icons/svg/mystery-man.svg",
+			"weight": 1,
+			"range": [
+				8,
+				8
+			],
+			"drawn": false,
+			"documentCollection": "",
+			"documentId": null,
+			"flags": {},
+			"_key": "!tables.results!RNrecruiters0010.RNrecruitr000008"
+		}
+	],
+	"flags": {},
+	"_stats": {
+		"coreVersion": "13.0.0",
+		"systemId": "projectfu"
+	},
+	"_key": "!tables!RNrecruiters0010"
+}
