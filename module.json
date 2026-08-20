@@ -2,7 +2,7 @@
 	"id": "rippers-names",
 	"title": "Rippers Unmasked — Names",
 	"description": "Name and pronunciation registries for the Rippers Unmasked campaign: a rollable Lodge-recruiter table and a browsable name/pronunciation journal. Original campaign content, layered on Project FU. A personal-table module — not for redistribution.",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"url": "https://github.com/RoscoeRackham/rippers-names",
 	"manifest": "https://github.com/RoscoeRackham/rippers-names/releases/latest/download/module.json",
 	"download": "https://github.com/RoscoeRackham/rippers-names/releases/latest/download/rippers-names.zip",
@@ -37,7 +37,7 @@
 	],
 	"relationships": {
 		"systems": [
-			{ "id": "projectfu", "type": "system", "compatibility": { "minimum": "13" } }
+			{ "id": "projectfu", "type": "system" }
 		]
 	},
 	"flags": {
